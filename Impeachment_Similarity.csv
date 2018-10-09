@@ -1,11 +1,10 @@
-Atribute,Value,Year,Position
-Distancia_Turno_1,13.29,1990,1
-Distancia_Turno_1,8.04,2014,1
-Estados_Primeiro_Colocado,88.46,1990,2
-Estados_Primeiro_Colocado,57.69,2014,2
-Estados_Segundo_Colocado,0,1990,3
-Estados_Segundo_Colocado,37.61,2014,3
-Distancia_Turno_2,6.06,1990,4
-Distancia_Turno_2,3.28,2014,4
-Abstenções_Turno_2,14.39,1990,5
-Abstenções_Turno_2,21.11,2014,5
+Atributo,Value,Ano,Position
+Distancia no Turno 1,13.29,1990,1
+Distancia no Turno 1,8.04,2014,1
+Distancia no Turno 1,19.51,Média,1
+Distancia no Turno 2,6.06,1990,2
+Distancia no Turno 2,3.28,2014,2
+Distancia no Turno 2,13.13,Média,2
+Abstenções no Turno 2,14.39,1990,3
+Abstenções no Turno 2,21.11,2014,3
+Abstenções noTurno 2,19.29,Média,3
